@@ -1,5 +1,5 @@
 #### Hi there 👋
- I'm Raluca, a 2nd year computer science student from Romania, former STEP intern at Google & incoming SWE intern at Google.
+ I'm Raluca, a 3rd year Computer Science student from Romania, former SWE intern at Fitbit (2021) and Google STEP intern at Google (2020).
  
 <!--
 **ralucatudor/ralucatudor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
